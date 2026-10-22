@@ -1,4 +1,4 @@
-# Al Smith — The Java Architect
+# "Agile" Al Smith — The Java Architect
 
 Enterprise architect turned AI-systems builder. I design and operate **governed agentic platforms** —
 service-oriented architectures where AI agents do real work under explicit policy, human approval
@@ -14,9 +14,10 @@ and reuse before rebuild.
 
 | System | What it is |
 |---|---|
-| [DigitalExpo.ai](https://digitalexpo.ai) | AI-native publishing platform — living books with an embedded AI coach. See a 900+ page governed, continuously-updated book at [/wdyd](https://digitalexpo.ai/wdyd) |
+| [DigitalExpo.ai](https://digitalexpo.ai) | AI-native publishing platform — living books with an embedded AI coach. |
 | [SkillBots.ai](https://skillbots.ai) | Agent capability marketplace — domain skill-bots on a shared governed runtime |
 | [iQTalk.ai](https://iqtalk.ai) | Conversational voice agents on live phone lines (telephony + realtime AI) |
+| [PersonalTraining.ai](https://personaltraining.ai) | Conversational voice personal training agents for personal training |
 | [EMRArchitect.com](https://emrarchitect.com) | Healthcare reference architecture — governed clinical workflow orchestration, FHIR integration seam |
 | [ChatConsultant.ai](https://chatconsultant.ai) | The consultant platform the skill-bots compile into |
 | [F2TrainingSystem.com](https://f2trainingsystem.com) | WooCommerce store for a patented fitness equipment line — the business the platform work funds |
