@@ -20,6 +20,7 @@ and reuse before rebuild.
 | [EMRArchitect.com](https://emrarchitect.com) | Healthcare reference architecture — governed clinical workflow orchestration, FHIR integration seam |
 | [ChatConsultant.ai](https://chatconsultant.ai) | The consultant platform the skill-bots compile into |
 | [F2TrainingSystem.com](https://f2trainingsystem.com) | WooCommerce store for a patented fitness equipment line — the business the platform work funds |
+| [F2 Combat](https://personaltraining.ai/f2combat/) | Real-time browser boxing game with phone-vs-phone WebRTC duels — and the one client here you can read end to end ([code](https://github.com/thejavaarchitect/f2-combat)) |
 | [AgiLean.ai](https://agilean.ai) | AI enablement for lean delivery organizations |
 
 ## How it's built
@@ -40,6 +41,10 @@ The platform's core — compilers, orchestrators, capability packs, and content 
 proprietary, with multiple patent filings pending; it stays private. What you'll find in these
 repositories is the surrounding engineering: architecture briefs, operational tooling, and selected
 generic components. The live systems above are the running demonstration.
+
+The one client you can read end to end is **[f2-combat](https://github.com/thejavaarchitect/f2-combat)** —
+the shipped front-end of the F2 Combat game, published exactly as served (real-time WebRTC, and a
+deliberately secret-free client).
 
 ## Background
 
