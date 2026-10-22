@@ -19,6 +19,7 @@ and reuse before rebuild.
 | [SkillBots.ai](https://skillbots.ai) | Agent capability marketplace — domain skill-bots on a shared governed runtime |
 | [iQTalk.ai](https://iqtalk.ai) | Conversational voice agents on live phone lines (telephony + realtime AI) |
 | [PersonalTraining.ai](https://personaltraining.ai) | Conversational voice personal training agents for personal training |
+| [dAIting.ai](https://dAIting.ai) | AI enabled dating site with agent based personalized recommendation engine. |
 | [EMRArchitect.com](https://emrarchitect.com) | Healthcare reference architecture — governed clinical workflow orchestration, FHIR integration seam |
 | [ChatConsultant.ai](https://chatconsultant.ai) | The consultant platform the skill-bots compile into |
 | [F2TrainingSystem.com](https://f2trainingsystem.com) | WooCommerce store for a patented fitness equipment line — the business the platform work funds |
