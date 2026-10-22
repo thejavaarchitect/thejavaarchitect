@@ -53,4 +53,4 @@ deliberately secret-free client).
 AI agents behave like well-governed enterprise services. Patents granted in fitness equipment
 (the F2 line); filings pending in AI content and learning systems.
 
-**Contact:** via [thejavaarchitect.com](https://thejavaarchitect.com) · LinkedIn
+**Contact:** via [AgiLean.ai](https://agilean.ai) · [LinkedIn](https://linkedin.com/in/agilean)
