@@ -14,6 +14,7 @@ and reuse before rebuild.
 
 | System | What it is |
 |---|---|
+| [SaasiE.ai](https://saasie.ai) | White-label AI engagement platform, built on SOAi solution architecture, and client-ready deliverables.|
 | [DigitalExpo.ai](https://digitalexpo.ai) | AI-native publishing platform — living books with an embedded AI coach. |
 | [SkillBots.ai](https://skillbots.ai) | Agent capability marketplace — domain skill-bots on a shared governed runtime |
 | [iQTalk.ai](https://iqtalk.ai) | Conversational voice agents on live phone lines (telephony + realtime AI) |
